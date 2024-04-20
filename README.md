@@ -53,3 +53,4 @@ Basic Types:
 * A summary of Jakarta Persistence 3.2: https://in.relation.to/2024/04/01/jakarta-persistence-3/
 * A preview of Jakarta Data 1.0 (Part I): https://in.relation.to/2024/04/01/jakarta-data-1/
 * A preview of Jakarta Data 1.0 (Part II): https://in.relation.to/2024/04/18/jakarta-data-1/
+* Unlocking Data Access Excellence with Jakarta Data: https://www.youtube.com/watch?v=LbmXvd-4p3U
