@@ -1,11 +1,12 @@
 Jakarta Data demo
 ===================
 
-
 The Jakarta Data specification provides an API to simplify data access.
 It enables the Java developer to focus on the data model, while delegating away the complexities of data persistence.
 To make this possible, Jakarta Data includes a variety of features such as pre-built interfaces for data access, offset and cursor based pagination strategies,
 and the ability to compose custom query methods that the framework implements.
+
+![Jakarta Data](jakarta-data.png)
 
 # Vocabulary
 
